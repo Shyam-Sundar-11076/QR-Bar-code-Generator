@@ -5,7 +5,7 @@
 }
 
 body{
-    background-color: #36454f;
+    background-color: darkslategrey;
     display: flex;
     justify-content:center;
     align-items: center;
@@ -45,7 +45,7 @@ h1{
 .container input{
     width: 100%;
     height:50px;
-    border:1px solid #36454f;
+    border:1px solid darkslategrey;
     outline: 0;
     padding: 10px;
     margin: 10px 0 20px;
@@ -55,7 +55,7 @@ h1{
 .container button{
     width: 100%;
     height: 50px;
-    background-color: #36454f;
+    background-color: darkslategray;
     color: White;
     border: 0;
     outline: 0;
